@@ -43,6 +43,12 @@ bin/kafka-topics.sh --bootstrap-server localhost:9092 \
                     --create --topic temperatura --partitions 1 --replication-factor 1
 ```
 
+NOTE: You can also remove the topic using the following command, and then recreate it:
+
+```bash
+bin/kafka-topics.sh --bootstrap-server localhost:9092 --topic temperatura --delete
+```
+
 ## Validate topic:
 
 Open a terminal for each the producer and the consumer.
