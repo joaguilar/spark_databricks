@@ -2,3 +2,13 @@ pyspark==3.5.1
 findspark
 kafka-python
 notebook
+spark-nlp==6.0.2
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+setuptools
+pypdf2
+contractions
+unidecode
