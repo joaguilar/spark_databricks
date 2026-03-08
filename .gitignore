@@ -196,3 +196,4 @@ cython_debug/
 .venv
 data/**
 .DS_Store
+**/*.pdf
