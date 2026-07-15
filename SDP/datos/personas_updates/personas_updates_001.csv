@@ -1,0 +1,7 @@
+id,nombre,edad,ciudad,operacion,fecha_proceso
+9001,Rosa,34,Cartago,NEW,2026-07-15T09:00:00
+9002,Iván,41,Heredia,NEW,2026-07-15T09:00:00
+9003,Elena,29,Alajuela,NEW,2026-07-15T09:00:00
+9001,Rosa,34,San José,UPDATE,2026-07-15T10:00:00
+9002,Iván,41,Heredia,DELETE,2026-07-15T10:30:00
+9001,Rosa,35,San José,UPDATE,2026-07-15T11:00:00
